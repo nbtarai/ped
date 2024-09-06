@@ -1,4 +1,4 @@
-#! /bin/zsh
+#!/bin/zsh
 
 # php encrypt/decrypt runner
 
