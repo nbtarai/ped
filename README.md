@@ -1,5 +1,5 @@
 # PHP Encrypt/Decrypt Runner
-暗号方式:AES-128-EBC
+暗号方式:AES-128-ECB
 
 # 使い方
 デフォルトで設定している暗号キーは`0123456789abcde`です。
