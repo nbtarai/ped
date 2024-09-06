@@ -1,4 +1,4 @@
-# PHP Enctypt/Decrypt Runner
+# PHP Encrypt/Decrypt Runner
 暗号方式:AES-128-EBC
 
 # 使い方
